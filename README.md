@@ -15,6 +15,10 @@ Usage:
 ```bash
 ./watch path/to/watch
 ```
+
+Example usage:  
+<img src="images/example_usage.png">
+
 ## Features
 
 Currently this application logs the changes for 'File created', 'File modified', 'File deleted'.
